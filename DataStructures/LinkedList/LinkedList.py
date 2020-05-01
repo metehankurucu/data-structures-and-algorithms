@@ -64,9 +64,6 @@ class LinkedList:
                 return
             current = current.next
             count += 1
-
-        current.next = newNode
-        self.size = self.size + 1
     
 
     def removeAt(self, index):
