@@ -10,7 +10,7 @@ After I implement or try to do it myself, I search for optimizations and change 
 - [Linked List](DataStructures/LinkedList)
 - Doubly Linked List
 - [Queue](DataStructures/Queue)
-- Stack
+- [Stack](DataStructures/Stack)
 - [Dynamic Array](DataStructures/DynamicArray)
 - Hash Table
 - [Heap](DataStructures/Heap)
@@ -29,7 +29,7 @@ After I implement or try to do it myself, I search for optimizations and change 
   - [Selection Sort](Algorithms/Sorting/SelectionSort)
   - [Insertion Sort](Algorithms/Sorting/InsertionSort)
   - [Heap Sort](Algorithms/Sorting/HeapSort)
-  - Merge Sort
+  - [Merge Sort](Algorithms/Sorting/MergeSort)
   - Quicksort
   - [Shellsort](Algorithms/Sorting/ShellSort)
   - Counting Sort
