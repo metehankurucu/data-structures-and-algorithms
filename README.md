@@ -30,7 +30,7 @@ After I implement or try to do it myself, I search for optimizations and change 
   - [Insertion Sort](Algorithms/Sorting/InsertionSort)
   - [Heap Sort](Algorithms/Sorting/HeapSort)
   - [Merge Sort](Algorithms/Sorting/MergeSort)
-  - Quicksort
+  - [Quicksort](Algorithms/Sorting/QuickSort)
   - [Shellsort](Algorithms/Sorting/ShellSort)
   - Counting Sort
   - Radix Sort
