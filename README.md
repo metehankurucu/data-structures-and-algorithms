@@ -32,7 +32,7 @@ After I implement or try to do it myself, I search for optimizations and change 
   - [Merge Sort](Algorithms/Sorting/MergeSort)
   - [Quicksort](Algorithms/Sorting/QuickSort)
   - [Shellsort](Algorithms/Sorting/ShellSort)
-  - Counting Sort
+  - [Counting Sort](Algorithms/Sorting/CountingSort)
   - Radix Sort
 - **Searching**
   - [Linear Search](Algorithms/Search/Linear)
