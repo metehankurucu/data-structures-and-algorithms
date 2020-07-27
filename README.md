@@ -40,7 +40,7 @@ After I implement or try to do it myself, I search for optimizations and change 
   - [Ternary Search](Algorithms/Search/Ternary)
 - **Strings**
   - [Rabin Karp Algorithm](Algorithms/String/RabinKarp) - pattern search
-  - Knuth–Morris–Pratt Algorithm
+  - [Knuth–Morris–Pratt Algorithm](Algorithms/String/KnuthMorrisPratt)
   - Z Algorithm
 - **Hashing**
   - [Polynomial Hash](Algorithms/Hashing/PolynomialHash) - rolling hash
